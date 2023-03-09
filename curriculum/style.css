@@ -1,0 +1,116 @@
+body{
+    background-color: #cecece;
+    /*background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-position: 100% 10%;
+    background-size: cover;
+    background-attachment: fixed;*/
+    font-family: 'Raleway', sans-serif;
+    color: rgb(34, 34, 34);
+    margin: 0;
+
+}
+
+.container{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.profile{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.foto-principal{
+    width: 300px;
+}
+
+p{
+    color: rgb(34, 34, 34);
+}
+
+.foto-principal{
+    width: 200px;
+    border: 2px solid rgb(243, 239, 239)   /* shorthand */;
+    border-radius: 50%;
+    border-style: solid;
+    margin: 30px 30px 0;
+    box-shadow: 5px 5px 5px black;
+    
+}
+
+h1{
+    margin-bottom: 0;
+    letter-spacing: -1px;
+    font-family: sans-serif;
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+h2{
+    margin-top: 0;
+    font-style: italic;
+    color: rgb(109, 106, 106);
+    font-weight: 100;
+    letter-spacing: -1px;
+}
+
+h4{
+    margin-bottom: 5px;
+}
+
+h5{
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.icons{
+    width: 20px;
+}
+
+.links{
+    text-decoration: none;
+}
+
+.github{
+    margin: 0 15px 0 15px;
+}
+
+.jobs{
+    list-style: none;
+    padding-left: 20px;
+}
+
+.footer{
+    margin-top: 40px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px 0;
+}
+
+.final{
+    margin: 10px;
+    font-style: normal;
+}
+
+.gmail{
+    width: 30px;
+    margin-right: 10px;
+    margin-bottom: -10px;
+    color: rgb(34, 34, 34);
+}
+
+.contato{
+    text-decoration: none;
+    color: rgb(34, 34, 34);
+    font-family: 'Raleway', sans-serif;
+}
+
